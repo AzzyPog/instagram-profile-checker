@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: Roboto, serif;
+  background: linear-gradient(to right, #c800ce, #ff00e3);
+  color: #ffffff;
+}
